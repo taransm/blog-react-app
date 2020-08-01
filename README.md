@@ -10,7 +10,7 @@ o	The app will use port 3000 and server will use port 3001</br></br>
 
 Routing in done using react-router-dom</br></br>
 
-<img src="https://github.com/taransm/blog-template/blob/master/front-page.png"/>
+<img src="https://github.com/taransm/blog-react-app/blob/master/front-page.png"/>
 
  
 
