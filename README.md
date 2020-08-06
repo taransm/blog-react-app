@@ -1,6 +1,4 @@
-	blog folder (Front End React )</br>
-	server folder (Express)</br></br>
-To run the front end and the server do the following in your respective terminal </br>
+To run the app locally do the following in your respective terminal </br>
 •	npm install</br>
 •	npm start</br></br>
 Note: </br>
